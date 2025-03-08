@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682324683109",
+    "project_id": "stockease-c1b7d",
+    "storage_bucket": "stockease-c1b7d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682324683109:android:c66f7707348ed20da3598c",
+        "android_client_info": {
+          "package_name": "com.appvantage.stockease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYFyNn1j3VnF-TMaqT1tfd2At4d48FtMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
